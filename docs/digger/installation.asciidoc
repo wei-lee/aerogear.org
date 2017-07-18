@@ -5,9 +5,23 @@ title: Digger installation guide
 toc_generate: true
 ---
 
-== Digger macOS setup
+== Overview
 
-include::docs/digger/installation/macos-prereqs.asciidoc[macOS prerequisites]
+include::docs/digger/installation/overview.asciidoc[]
+
+== Prerequisites
+
+include::docs/digger/installation/prerequisites.asciidoc[]
+
+== Install Jenkins
+
+include::docs/digger/installation/install-jenkins.asciidoc[]
+
+== Install Android SDK
+
+include::docs/digger/installation/install-android-sdk.asciidoc[]
+
+== Setup Mac Servers
 
 include::docs/digger/installation/macos-setup.asciidoc[macOS setup]
 
@@ -15,3 +29,12 @@ include::docs/digger/installation/macos-setup.asciidoc[macOS setup]
 
 Further configuration of the macOS node is possible through optional variables.
 link:macos-options[View all macOS variables].
+
+== Connect to RHMAP
+
+include::docs/digger/installation/connect-to-rhmap.asciidoc[]
+
+== Verify Installation
+
+include::docs/digger/installation/verify-installation.asciidoc[]
+

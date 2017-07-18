@@ -1,0 +1,5 @@
+---
+layout: post
+section: docs
+title: Connect To RedHat Mobile Application Platform
+---
